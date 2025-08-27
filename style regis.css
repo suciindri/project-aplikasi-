@@ -1,0 +1,48 @@
+body{
+    background-image: url("Fashion Instagram story template and iPhone background fashion bloggers Instagram.jpeg");
+    margin: auto;
+    padding: 0%;
+    border: 5px solid rgba(128, 128, 128, 0.811);
+    border-radius: 50px;
+    height: 90vh;
+    width: 28%;
+}
+body{
+    position: absolute;
+    top: 120px;
+    left: 37%;
+}
+h1{
+    text-align: center;
+}
+form input{
+    text-align: center;
+    width: 90%;
+    height: 30px;
+}
+form label{
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+    display: block;
+
+}
+.gender-op{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+   
+}
+.submit{
+    padding-left: 15px;
+    margin-top: 20px;
+
+}
+.submit input[type="submit"]{
+    background-color: cadetblue;
+}
+.submit input[type="submit"]:hover{
+    background-color: cornflowerblue;
+    color: blueviolet;
+}
